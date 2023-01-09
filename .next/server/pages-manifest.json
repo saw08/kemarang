@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/admin/data-pesanan": "pages/admin/data-pesanan.html",
+  "/admin/home": "pages/admin/home.html",
+  "/admin/pesanan": "pages/admin/pesanan.html",
+  "/admin/tambah-album": "pages/admin/tambah-album.html",
+  "/admin/tambah-paket": "pages/admin/tambah-paket.html",
+  "/admin/tambah-hiburan": "pages/admin/tambah-hiburan.html",
+  "/api/db_album": "pages/api/db_album.js",
+  "/api/db_menu": "pages/api/db_menu.js",
+  "/api/db_ruangan": "pages/api/db_ruangan.js",
+  "/api/ruangan": "pages/api/ruangan.js",
+  "/": "pages/index.html",
+  "/pesan": "pages/pesan.html",
+  "/api/upload": "pages/api/upload.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

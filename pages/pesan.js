@@ -6,7 +6,7 @@ export default function Pesan() {
                     <h2>Reservation</h2>
                     <p>Lengkapi Data Reserfasi</p>
                 </div>
-                <form method="post" role="form" className="php-email-form" data-aos="fade-up" data-aos-delay={100}>
+                <form>
                     <div className="row">
                         <div className="col-lg-10 col-md-10 mt-3 form-group">
                             <label style={{ color: "white" }}>Nama Pemesan</label>

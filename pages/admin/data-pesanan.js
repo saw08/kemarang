@@ -1,7 +1,6 @@
 
  function Datapesanan() {
     return (
-        <div>
             <div>
                 {/* ======= Hero Section ======= */}
                 <section id="hero" className="d-flex align-items-center">
@@ -45,11 +44,9 @@
                         </div>
                     </div>
                 </section>{/* End Hero */}
-                <main id="main ">
-                </main>
+                
             </div>
 
-        </div>
 
     )
 }

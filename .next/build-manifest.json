@@ -1,0 +1,78 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/3BVK5zHaHvCWlYS4Nz4pp/_buildManifest.js",
+    "static/3BVK5zHaHvCWlYS4Nz4pp/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/675-ae0e67b7f7a7401a.js",
+      "static/chunks/pages/index-17cc7d4c88f14ea1.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/css/313a4b1bb6309a06.css",
+      "static/chunks/pages/_app-71dc34f9e9a96c2b.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/_error-8353112a01355ec2.js"
+    ],
+    "/admin/data-pesanan": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/admin/data-pesanan-50b572760b351501.js"
+    ],
+    "/admin/home": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/admin/home-98b8e9c8f9078f33.js"
+    ],
+    "/admin/pesanan": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/admin/pesanan-b43b6cc18b6ed066.js"
+    ],
+    "/admin/tambah-album": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/299-fc4a8fdfbdebc530.js",
+      "static/chunks/pages/admin/tambah-album-8680d2c345c48266.js"
+    ],
+    "/admin/tambah-hiburan": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/admin/tambah-hiburan-468124148a195b8b.js"
+    ],
+    "/admin/tambah-paket": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/admin/tambah-paket-988411abc486e34f.js"
+    ],
+    "/pesan": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-3b5a00d5d7e8d93b.js",
+      "static/chunks/main-85616fa12b5fff02.js",
+      "static/chunks/pages/pesan-3d185cc7ac4ba925.js"
+    ]
+  },
+  "ampFirstPages": []
+}
