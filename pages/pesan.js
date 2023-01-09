@@ -188,7 +188,7 @@ export default function Pesan() {
                         <div className="validate" />
                     </div>
                     <div className="text-center col-lg-10 col-md-10 form-group mt-3 mt-5">
-                        <a href="/"> <button className="book-a-table-btn" >Reservasi sekarang</button></a>
+                        <a href="./"> <button className="book-a-table-btn" >Reservasi sekarang</button></a>
                     </div>
                 </form>
             </div>

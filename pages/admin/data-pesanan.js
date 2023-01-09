@@ -1,4 +1,3 @@
-// import Pesanan from '../../components/admin/cardpesanan'
 
 export default function Datapesanan() {
     return (
