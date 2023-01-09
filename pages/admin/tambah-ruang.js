@@ -5,6 +5,7 @@ import Ruangan from '../../components/admin/ruangan/ruangan'
 export default function Tambahruang() {
     const [namaruang, setNamaruang] = useState('');
     const [kapasitas, setKapasitas] = useState('');
+    const [kategori, setKategori] = useState('');
     const [deskripsi, setDeskripsi] = useState('');
     const [foto1, setFoto] = useState([]);
     const [image, setImage] = useState([]);
@@ -14,9 +15,10 @@ export default function Tambahruang() {
     const [uploading, setUploading] = useState(false)
     const clearInput = () => {
         setNamaruang('');
+        setKategori('');    
         setKapasitas('');
         setDeskripsi('');
-        setFoto('');
+        setFoto([]);
         setUploading(false)
     }
 
@@ -56,6 +58,7 @@ export default function Tambahruang() {
         // post structure
         let ruangan = {
             namaruang,
+            kategori,
             kapasitas,
             deskripsi,
             foto1
@@ -151,6 +154,14 @@ export default function Tambahruang() {
                             <div className="col-lg-6 col-md-10 form-group mt-3">
                                 <label style={{ color: "white" }}>Foto ruangan (dapat di isi 3 foto)</label>
                                 <input type="file" className="form-control" name="myImage" onChange={uploadToClient} />
+                            </div>
+                            <div className="col-lg-6 col-md-10 form-group mt-3">
+                                <label style={{ color: "white" }}>Kategori</label>
+                                <select className="form-control form-select" onChange={(e) => setKategori(e.target.value)} required>
+                                    <option readonly>--pilih kategori--</option>
+                                    <option value={'ruangan'}>Ruangan</option>
+                                    <option value={'pondok'}>Pondok</option>
+                                </select>
                             </div>
                             <div className="col-lg-6 col-md-10 mt-3 form-group">
                                 <label style={{ color: "white" }} htmlFor="validatedCustomFile">Nama ruang </label>

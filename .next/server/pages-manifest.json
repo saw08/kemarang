@@ -2,6 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/admin/tambah-ruang": "pages/admin/tambah-ruang.js",
-  "/api/db_ruangan": "pages/api/db_ruangan.js"
+  "/admin/tambah-paket": "pages/admin/tambah-paket.js"
 }

@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/admin/tambah-ruang": [
+    "/admin/tambah-paket": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/admin/tambah-ruang.js"
+      "static/chunks/pages/admin/tambah-paket.js"
     ]
   },
   "ampFirstPages": []
