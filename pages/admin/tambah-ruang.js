@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Ruangan from '../../components/admin/ruangan/ruangan'
 
 
-export default function Tambahruang() {
+function Tambahruang() {
     const [namaruang, setNamaruang] = useState('');
     const [kapasitas, setKapasitas] = useState('');
     const [kategori, setKategori] = useState('');
@@ -213,3 +213,4 @@ export default function Tambahruang() {
         </>
     )
 }
+export default Ruangan;

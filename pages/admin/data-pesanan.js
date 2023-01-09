@@ -1,5 +1,5 @@
 
-export default function Datapesanan() {
+ function Datapesanan() {
     return (
         <div>
             <div>
@@ -53,3 +53,4 @@ export default function Datapesanan() {
 
     )
 }
+export default Datapesanan;

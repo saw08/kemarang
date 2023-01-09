@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-export default function Tambahpaket() {
+function Tambahpaket() {
     const [namaruang, setNamaruang] = useState('');
     const [kapasitas, setKapasitas] = useState('');
     const [kategori, setKategori] = useState('');
@@ -147,3 +147,4 @@ export default function Tambahpaket() {
         </>
     )
 }
+export default Tambahpaket;
