@@ -45,7 +45,7 @@ export default function Datapesanan() {
                         </div>
                     </div>
                 </section>{/* End Hero */}
-                <main id="main">
+                <main id="main ">
                 </main>
             </div>
 

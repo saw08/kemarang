@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/3s6KNWeswoOQ25VY_pgUe/_buildManifest.js",
-    "static/3s6KNWeswoOQ25VY_pgUe/_ssgManifest.js"
+    "static/xJFfz80g5MtpDDIBwhXO_/_buildManifest.js",
+    "static/xJFfz80g5MtpDDIBwhXO_/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -74,17 +74,11 @@
       "static/chunks/734-f34dcd3236082e07.js",
       "static/chunks/pages/admin/tambah-ruang-6e5700385635e517.js"
     ],
-    "/nota": [
-      "static/chunks/webpack-ee7e63bc15b31913.js",
-      "static/chunks/framework-3b5a00d5d7e8d93b.js",
-      "static/chunks/main-a455256c0236c590.js",
-      "static/chunks/pages/nota-7015860076f33ef3.js"
-    ],
     "/pesan": [
       "static/chunks/webpack-ee7e63bc15b31913.js",
       "static/chunks/framework-3b5a00d5d7e8d93b.js",
       "static/chunks/main-a455256c0236c590.js",
-      "static/chunks/pages/pesan-ca8d13fb5d4ecbcc.js"
+      "static/chunks/pages/pesan-8d2011bbf177ab2c.js"
     ]
   },
   "ampFirstPages": []
